@@ -1,0 +1,1 @@
+[{"Reviewer": "D", "Operator": "Airtable", "Duration": 900.0, "noiseLevel": "Medium", "noiseTypes": ["Rain", "Wind"]}, [389.07175057781944, 408.9741475815647, 1046, 1868, [{"filter": "M", "species": "K-Far", "certainty": 100}, {"filter": "M", "species": "K-M", "certainty": 100}, {"filter": "M", "species": "K-Set", "certainty": 100}]]]

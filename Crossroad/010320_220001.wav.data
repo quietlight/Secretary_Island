@@ -1,0 +1,1 @@
+[{"Reviewer": "D", "Operator": "D", "Duration": 900.0, "noiseLevel": "Medium", "noiseTypes": ["Wind"]}, [541.3453502477084, 565.1269794611916, 1541, 3938, [{"filter": "M", "species": "K-Set", "certainty": 100}, {"filter": "M", "species": "K-Ok", "certainty": 100}, {"filter": "M", "species": "K-M", "certainty": 100}]]]
