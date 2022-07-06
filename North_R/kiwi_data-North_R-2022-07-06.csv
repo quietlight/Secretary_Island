@@ -1,0 +1,20 @@
+Location	File_Name	start	end	min_freq	max_freq	certainty	call_type	species	Noise_Types	Noise_Level
+North_R	050519_234502.wav.data	23:58:01	23:58:32	1969.0	2954.0	100	M	K-Far	["Wind"]	Low
+North_R	050519_234502.wav.data	23:58:01	23:58:32	1969.0	2954.0	100	M	K-Set	["Wind"]	Low
+North_R	050519_234502.wav.data	23:58:01	23:58:32	1969.0	2954.0	100	M	K-M	["Wind"]	Low
+North_R	110418_233002.wav.data	23:33:35	23:33:53	1842.0	2931.0	100	M	K-M	["Wind"]	Medium
+North_R	110418_233002.wav.data	23:33:35	23:33:53	1842.0	2931.0	100	M	K-Set	["Wind"]	Medium
+North_R	110418_233002.wav.data	23:33:35	23:33:53	1842.0	2931.0	100	M	K-Far	["Wind"]	Medium
+North_R	110418_233002.wav.data	23:35:47	23:36:13	2224.0	3139.0	100	M	K-Far	["Wind"]	Medium
+North_R	110418_233002.wav.data	23:35:47	23:36:13	2224.0	3139.0	100	M	K-Set	["Wind"]	Medium
+North_R	110418_233002.wav.data	23:35:47	23:36:13	2224.0	3139.0	100	M	K-M	["Wind"]	Medium
+North_R	110518_223002.wav.data	22:30:48	22:31:13	1865.0	3973.0	100	M	K-Set	["Wind", "Wind Gusts"]	Medium
+North_R	110518_223002.wav.data	22:30:48	22:31:13	1865.0	3973.0	100	M	K-M	["Wind", "Wind Gusts"]	Medium
+North_R	110518_223002.wav.data	22:30:48	22:31:13	1865.0	3973.0	100	M	K-Far	["Wind", "Wind Gusts"]	Medium
+North_R	130419_223002.wav.data	22:31:01	22:31:06	3243.0	3764.0	0	M	Don't Know	Union{}[]	Low
+North_R	240419_221502.wav.data	22:19:43	22:20:08	1170.0	2977.0	100	M	K-M	["Wind"]	Low
+North_R	240419_221502.wav.data	22:19:43	22:20:08	1170.0	2977.0	100	M	K-Far	["Wind"]	Low
+North_R	240419_221502.wav.data	22:19:43	22:20:08	1170.0	2977.0	100	M	K-Set	["Wind"]	Low
+North_R	250318_231502.wav.data	23:29:21	23:29:41	1645.0	3996.0	100	M	K-Set	["Wind", "Wind Gusts"]	Medium
+North_R	250318_231502.wav.data	23:29:21	23:29:41	1645.0	3996.0	100	M	K-Far	["Wind", "Wind Gusts"]	Medium
+North_R	250318_231502.wav.data	23:29:21	23:29:41	1645.0	3996.0	100	M	K-M	["Wind", "Wind Gusts"]	Medium
