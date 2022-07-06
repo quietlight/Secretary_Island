@@ -1,1 +1,1 @@
-[ {"Reviewer":"D", "Operator":"Airtable", "Duration":895},[228, 241, 0, 8000, [{"species":"K-Set", "calltype":"M", "filter": "Kiwi (Tokoeka Fiordland)", "certainty":99}]] ]
+[{"Reviewer": "D", "Operator": "Airtable", "Duration": 900.0, "noiseLevel": "Low", "noiseTypes": []}]

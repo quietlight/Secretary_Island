@@ -1,1 +1,1 @@
-[ {"Reviewer":"D", "Operator":"Airtable", "Duration":895},[598, 609, 0, 8000, [{"species":"K-Set", "calltype":"M", "filter": "Kiwi (Tokoeka Fiordland)", "certainty":99}]] ]
+[{"Reviewer": "D", "Operator": "Airtable", "Duration": 900.0, "noiseLevel": "Medium", "noiseTypes": ["Wind"]}, [594.6955813953489, 617.583527131783, 1900, 3660, [{"filter": "M", "species": "K-Set", "certainty": 100}, {"filter": "M", "species": "K-M", "certainty": 100}, {"filter": "M", "species": "K-Far", "certainty": 100}]]]
